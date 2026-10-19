@@ -1,3 +1,4 @@
 tensorflow = 2.10.0
 mediapipe = 0.10.14
 open_cv = 4.13.0
+numpy = 1.23.5
