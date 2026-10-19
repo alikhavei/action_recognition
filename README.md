@@ -8,3 +8,7 @@
 | 2 | reading (کتاب خواندن) |
 | 3 | run (دویدن) |
 | 4 | smoke (سیگار کشیدن) |
+## نصب
+
+```bash
+pip install -r requirements.txt
