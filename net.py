@@ -74,7 +74,7 @@ loss, acc = net.evaluate(x_test,y_test)
 
 
 
-
+net.save("action.h5") 
 
 
 
